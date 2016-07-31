@@ -1,0 +1,14 @@
+{
+	"category" : "BBCode-AST",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 7/31/2016 15:58",
+	"instvars" : [
+		 ],
+	"name" : "BBCTableContentCell",
+	"pools" : [
+		 ],
+	"super" : "BBCTableCell",
+	"type" : "normal" }

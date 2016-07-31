@@ -1,0 +1,3 @@
+visiting
+visitBBCUnderlineNode: aBBCUnderlineNode
+	^ self subclassResponsibility

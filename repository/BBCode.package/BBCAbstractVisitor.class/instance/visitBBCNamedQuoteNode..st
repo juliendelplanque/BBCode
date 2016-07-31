@@ -1,0 +1,3 @@
+visiting
+visitBBCNamedQuoteNode: aBBCNamedQuoteNode
+	^ self subclassResponsibility

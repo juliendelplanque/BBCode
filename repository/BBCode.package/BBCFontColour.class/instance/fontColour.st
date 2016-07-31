@@ -1,0 +1,3 @@
+accessing
+fontColour
+	^ self parameter

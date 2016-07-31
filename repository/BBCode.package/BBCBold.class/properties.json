@@ -1,0 +1,14 @@
+{
+	"category" : "BBCode-AST",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 7/31/2016 10:32",
+	"instvars" : [
+		 ],
+	"name" : "BBCBold",
+	"pools" : [
+		 ],
+	"super" : "BBCNode",
+	"type" : "normal" }

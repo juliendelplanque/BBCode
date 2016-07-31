@@ -1,0 +1,3 @@
+visiting
+visitBBCTableContentCellNode: aBBCTableContentCellNode
+	^ self subclassResponsibility

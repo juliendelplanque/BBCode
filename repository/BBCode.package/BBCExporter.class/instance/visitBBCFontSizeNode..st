@@ -1,0 +1,3 @@
+visiting
+visitBBCFontSizeNode: aBBCFontSizeNode
+	self writeBBCNodeWithSimpleParameterOnStreamWithItsTags: aBBCFontSizeNode

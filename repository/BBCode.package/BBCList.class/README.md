@@ -1,0 +1,1 @@
+I am an abstract list node for a bbcode AST.

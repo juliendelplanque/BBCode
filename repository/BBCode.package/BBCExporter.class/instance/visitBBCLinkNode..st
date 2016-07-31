@@ -1,0 +1,3 @@
+visiting
+visitBBCLinkNode: aBBCLinkNode
+	self writeBBCNodeOnStreamWithItsTags: aBBCLinkNode

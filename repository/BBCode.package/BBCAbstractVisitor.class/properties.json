@@ -1,0 +1,14 @@
+{
+	"category" : "BBCode-Visitors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 7/31/2016 10:35",
+	"instvars" : [
+		 ],
+	"name" : "BBCAbstractVisitor",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

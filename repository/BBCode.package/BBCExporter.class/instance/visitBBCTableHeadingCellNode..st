@@ -1,0 +1,3 @@
+visiting
+visitBBCTableHeadingCellNode: aBBCTableHeadingCellNode
+	self writeBBCNodeOnStreamWithItsTags: aBBCTableHeadingCellNode

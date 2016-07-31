@@ -1,0 +1,14 @@
+{
+	"category" : "BBCode-AST",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 7/31/2016 11:39",
+	"instvars" : [
+		 ],
+	"name" : "BBCFontSize",
+	"pools" : [
+		 ],
+	"super" : "BBCSimpleParameterizedNode",
+	"type" : "normal" }

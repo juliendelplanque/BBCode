@@ -1,0 +1,1 @@
+I am the root node of a bbcode ast.

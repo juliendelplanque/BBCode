@@ -1,0 +1,3 @@
+visiting
+visitBBCFontColourNode: aBBCFontColourNode
+	^ self subclassResponsibility

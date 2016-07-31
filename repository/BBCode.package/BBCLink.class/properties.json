@@ -1,0 +1,14 @@
+{
+	"category" : "BBCode-AST",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 7/31/2016 12:27",
+	"instvars" : [
+		 ],
+	"name" : "BBCLink",
+	"pools" : [
+		 ],
+	"super" : "BBCNode",
+	"type" : "normal" }
