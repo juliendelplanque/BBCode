@@ -1,0 +1,14 @@
+{
+	"category" : "BBCode-Parser-Parser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 7/31/2016 17:14",
+	"instvars" : [
+		 ],
+	"name" : "BBCParser",
+	"pools" : [
+		 ],
+	"super" : "BBCTokenizer",
+	"type" : "normal" }

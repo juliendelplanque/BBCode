@@ -1,0 +1,14 @@
+{
+	"category" : "BBCode-Parser-Tokens",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 7/31/2016 17:05",
+	"instvars" : [
+		 ],
+	"name" : "BBCCloseTagToken",
+	"pools" : [
+		 ],
+	"super" : "BBCToken",
+	"type" : "normal" }

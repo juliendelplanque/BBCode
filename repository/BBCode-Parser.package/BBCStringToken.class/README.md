@@ -1,0 +1,1 @@
+I am string token. For example: 'hello'.

@@ -1,0 +1,1 @@
+I am the error raised when the bbcode is bad formatted.

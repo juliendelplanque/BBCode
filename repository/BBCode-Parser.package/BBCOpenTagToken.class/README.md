@@ -1,0 +1,1 @@
+I am an open tag token. For example: '[b]'.
