@@ -1,3 +1,3 @@
 visiting
 visitBBCLineThroughNode: aBBCLineThroughNode
-	self writeBBCNodeOnHTMLStream: aBBCLineThroughNode withTag: 'div' parameters: { 'style' -> 'text-decoration:line-through' } asDictionary
+	self writeBBCNodeOnHTMLStream: aBBCLineThroughNode withTag: 'span' parameters: { 'style' -> 'text-decoration:line-through' } asDictionary
