@@ -8,4 +8,4 @@ testVisitBBCFontSizeNode
 	
 	fontSizeNode accept: exporter.
 	
-	self assert: exporter contents equals: '<div style="font-size:10px">hello you</div>'
+	self assert: exporter contents equals: '<span style="font-size:10px">hello you</span>'

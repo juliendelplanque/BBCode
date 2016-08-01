@@ -8,4 +8,4 @@ testVisitBBCFontColourNode
 	
 	fontColorNode accept: exporter.
 	
-	self assert: exporter contents equals: '<div style="color:red">hello you</div>'
+	self assert: exporter contents equals: '<span style="color:red">hello you</span>'

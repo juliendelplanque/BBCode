@@ -8,4 +8,4 @@ testVisitBBCUnderlineNode
 	
 	underlineNode accept: exporter.
 	
-	self assert: exporter contents equals: '<div style="text-decoration:underline">hello you</div>'
+	self assert: exporter contents equals: '<span style="text-decoration:underline">hello you</span>'

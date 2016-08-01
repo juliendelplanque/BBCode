@@ -8,4 +8,4 @@ testVisitBBCLineThroughNode
 	
 	lineThroughNode accept: exporter.
 	
-	self assert: exporter contents equals: '<div style="text-decoration:line-through">hello you</div>'
+	self assert: exporter contents equals: '<span style="text-decoration:line-through">hello you</span>'
