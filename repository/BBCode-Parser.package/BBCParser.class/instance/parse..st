@@ -15,7 +15,8 @@ parse: aReadStream
 					currentNode := (BBCSimpleParameterizedNode classForTagName: token tag) new.
 					currentNode parameter: token simpleTagParameter ].
 				token hasParametersDict ifTrue: [ 
-					self halt. "todo" ].
+					currentNode := (BBCComplexParameterizedNode classForTagName: token tag) 
+											fromParametersDict: token parametersDict ].
 				oldCurrentNode addSubnode: currentNode ].
 		token isCloseTag
 			ifTrue: [ currentNode := currentNode father ] ].
