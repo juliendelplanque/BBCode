@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfBBCode",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfBBCode",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
