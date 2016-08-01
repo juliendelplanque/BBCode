@@ -2,5 +2,6 @@
 	"class" : {
 		 },
 	"instance" : {
-		"parse:" : "JulienDelplanque 7/31/2016 17:12",
-		"verifyTokens:" : "JulienDelplanque 7/31/2016 17:12" } }
+		"parse:" : "JulienDelplanque 8/1/2016 12:22",
+		"tokenize:" : "JulienDelplanque 8/1/2016 12:23",
+		"verifyTokens:" : "JulienDelplanque 8/1/2016 12:24" } }
