@@ -1,8 +1,7 @@
 {
 	"class" : {
-		"on:" : "JulienDelplanque 7/31/2016 10:40" },
+		 },
 	"instance" : {
-		"contents" : "JulienDelplanque 7/31/2016 10:56",
 		"visitBBCBoldNode:" : "JulienDelplanque 7/31/2016 10:50",
 		"visitBBCCodeNode:" : "JulienDelplanque 7/31/2016 15:51",
 		"visitBBCFontColourNode:" : "JulienDelplanque 7/31/2016 11:50",
@@ -26,6 +25,4 @@
 		"visitBBCUnderlineNode:" : "JulienDelplanque 7/31/2016 10:51",
 		"visitBBCUnorderedListNode:" : "JulienDelplanque 7/31/2016 13:04",
 		"writeBBCNodeOnStreamWithItsTags:" : "JulienDelplanque 7/31/2016 10:49",
-		"writeBBCNodeWithSimpleParameterOnStreamWithItsTags:" : "JulienDelplanque 7/31/2016 11:48",
-		"writeStream" : "JulienDelplanque 7/31/2016 10:41",
-		"writeStream:" : "JulienDelplanque 7/31/2016 10:41" } }
+		"writeBBCNodeWithSimpleParameterOnStreamWithItsTags:" : "JulienDelplanque 7/31/2016 11:48" } }

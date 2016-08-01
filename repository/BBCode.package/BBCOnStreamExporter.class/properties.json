@@ -4,11 +4,11 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "JulienDelplanque 7/31/2016 10:40",
+	"commentStamp" : "JulienDelplanque 8/1/2016 16:23",
 	"instvars" : [
-		 ],
-	"name" : "BBCExporter",
+		"writeStream" ],
+	"name" : "BBCOnStreamExporter",
 	"pools" : [
 		 ],
-	"super" : "BBCOnStreamExporter",
+	"super" : "BBCAbstractVisitor",
 	"type" : "normal" }
