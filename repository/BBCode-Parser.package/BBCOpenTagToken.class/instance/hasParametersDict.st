@@ -1,0 +1,3 @@
+testing
+hasParametersDict
+	^ parametersDict isNotNil

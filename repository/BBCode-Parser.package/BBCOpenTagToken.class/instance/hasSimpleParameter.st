@@ -1,0 +1,3 @@
+testing
+hasSimpleParameter
+	^ simpleTagParameter isNotNil

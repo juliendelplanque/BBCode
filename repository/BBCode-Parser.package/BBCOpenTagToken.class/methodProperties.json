@@ -2,6 +2,8 @@
 	"class" : {
 		"parseStream:" : "JulienDelplanque 7/31/2016 17:03" },
 	"instance" : {
+		"hasParametersDict" : "JulienDelplanque 8/1/2016 14:29",
+		"hasSimpleParameter" : "JulienDelplanque 8/1/2016 14:29",
 		"isOpenTag" : "JulienDelplanque 7/31/2016 17:09",
 		"parametersDict" : "JulienDelplanque 8/1/2016 13:11",
 		"parseComplexTagParameterName:" : "JulienDelplanque 8/1/2016 13:05",
