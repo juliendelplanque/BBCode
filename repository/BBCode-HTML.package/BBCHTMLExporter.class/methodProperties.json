@@ -1,0 +1,28 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"visitBBCBoldNode:" : "JulienDelplanque 8/1/2016 16:26",
+		"visitBBCCodeNode:" : "JulienDelplanque 8/1/2016 20:03",
+		"visitBBCFontColourNode:" : "JulienDelplanque 8/1/2016 16:51",
+		"visitBBCFontSizeNode:" : "JulienDelplanque 8/1/2016 16:54",
+		"visitBBCImageNode:" : "JulienDelplanque 8/1/2016 17:05",
+		"visitBBCItalicNode:" : "JulienDelplanque 8/1/2016 16:27",
+		"visitBBCLineThroughNode:" : "JulienDelplanque 8/1/2016 19:45",
+		"visitBBCLinkNode:" : "JulienDelplanque 8/1/2016 19:08",
+		"visitBBCListItemNode:" : "JulienDelplanque 8/1/2016 19:09",
+		"visitBBCNamedLinkNode:" : "JulienDelplanque 8/1/2016 19:11",
+		"visitBBCNamedQuoteNode:" : "JulienDelplanque 8/1/2016 19:16",
+		"visitBBCOrderedListNode:" : "JulienDelplanque 8/1/2016 16:56",
+		"visitBBCQuoteNode:" : "JulienDelplanque 8/1/2016 19:13",
+		"visitBBCResizedImageNode:" : "JulienDelplanque 8/1/2016 19:19",
+		"visitBBCRootNode:" : "JulienDelplanque 8/1/2016 16:51",
+		"visitBBCTableContentCellNode:" : "JulienDelplanque 8/1/2016 19:21",
+		"visitBBCTableHeadingCellNode:" : "JulienDelplanque 8/1/2016 19:21",
+		"visitBBCTableNode:" : "JulienDelplanque 8/1/2016 19:21",
+		"visitBBCTableRowNode:" : "JulienDelplanque 8/1/2016 19:21",
+		"visitBBCTextNode:" : "JulienDelplanque 8/1/2016 20:04",
+		"visitBBCUnderlineNode:" : "JulienDelplanque 8/1/2016 19:54",
+		"visitBBCUnorderedListNode:" : "JulienDelplanque 8/1/2016 16:56",
+		"writeBBCNodeOnHTMLStream:withTag:" : "JulienDelplanque 8/1/2016 16:49",
+		"writeBBCNodeOnHTMLStream:withTag:parameters:" : "JulienDelplanque 8/1/2016 19:33" } }

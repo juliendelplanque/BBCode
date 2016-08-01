@@ -1,0 +1,3 @@
+visiting
+visitBBCTableHeadingCellNode: aBBCTableHeadingCellNode
+	self writeBBCNodeOnHTMLStream: aBBCTableHeadingCellNode withTag: 'th'
