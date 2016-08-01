@@ -1,0 +1,1 @@
+A BBCOpenTagTokenTest is a test class for testing the behavior of BBCOpenTagToken

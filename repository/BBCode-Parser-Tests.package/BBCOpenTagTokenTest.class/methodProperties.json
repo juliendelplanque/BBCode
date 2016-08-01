@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "JulienDelplanque 8/1/2016 12:35",
+		"testParseComplexTagParameterName" : "JulienDelplanque 8/1/2016 13:00",
+		"testParseComplexTagParameterValue" : "JulienDelplanque 8/1/2016 13:07",
+		"testParseComplexTagParameters" : "JulienDelplanque 8/1/2016 13:16",
+		"testParseSimpleTagParameter" : "JulienDelplanque 8/1/2016 13:23",
+		"testParseTag" : "JulienDelplanque 8/1/2016 13:29",
+		"testParseTagName" : "JulienDelplanque 8/1/2016 12:38",
+		"testParseTagParameters" : "JulienDelplanque 8/1/2016 13:25" } }

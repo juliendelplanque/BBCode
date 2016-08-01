@@ -1,0 +1,14 @@
+{
+	"category" : "BBCode-Parser-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"token" ],
+	"name" : "BBCOpenTagTokenTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }
