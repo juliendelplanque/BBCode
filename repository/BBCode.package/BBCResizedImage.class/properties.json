@@ -1,0 +1,15 @@
+{
+	"category" : "BBCode-AST",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 8/1/2016 15:58",
+	"instvars" : [
+		"width",
+		"height" ],
+	"name" : "BBCResizedImage",
+	"pools" : [
+		 ],
+	"super" : "BBCComplexParameterizedNode",
+	"type" : "normal" }
