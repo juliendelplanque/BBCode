@@ -1,0 +1,14 @@
+{
+	"category" : "BBCode-HTML-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"exporter" ],
+	"name" : "BBCHTMLExporterTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }
