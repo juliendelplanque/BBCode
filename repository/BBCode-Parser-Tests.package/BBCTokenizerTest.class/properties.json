@@ -1,0 +1,14 @@
+{
+	"category" : "BBCode-Parser-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"tokenizer" ],
+	"name" : "BBCTokenizerTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }
