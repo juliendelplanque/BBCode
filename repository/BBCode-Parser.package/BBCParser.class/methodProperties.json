@@ -2,4 +2,6 @@
 	"class" : {
 		 },
 	"instance" : {
-		"parse:" : "JulienDelplanque 8/1/2016 16:07" } }
+		"buildASTFromStream:" : "JulienDelplanque 8/8/2016 12:07",
+		"parse:" : "JulienDelplanque 8/8/2016 13:01",
+		"validateAST:" : "JulienDelplanque 8/8/2016 13:00" } }
