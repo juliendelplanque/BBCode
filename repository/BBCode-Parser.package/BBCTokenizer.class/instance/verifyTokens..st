@@ -8,6 +8,6 @@ verifyTokens: tokens
 			ifTrue: [ stack push: token ].
 		token isCloseTag
 			ifTrue: [
-				([ stack pop tag = token tag ] on: CollectionIsEmpty do: [ BBCBadFormat signal: 'Tags are not opened/closed correctly.' ])
+				stack pop tag = token tag
 					ifFalse: [ BBCBadFormat signal: 'Tags are not opened/closed correctly.' ] ] ].
 	stack ifNotEmpty: [ BBCBadFormat signal: 'Tags are not opened/closed correctly.' ]

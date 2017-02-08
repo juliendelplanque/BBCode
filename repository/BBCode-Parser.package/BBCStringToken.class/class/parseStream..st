@@ -4,5 +4,6 @@ parseStream: aReadStream
 	instance := self new
 						content: (aReadStream upTo: $[);
 						yourself.
-	aReadStream atEnd ifFalse: [ aReadStream back ].
+	aReadStream peekBack = $[
+		ifTrue: [ aReadStream back ].
 	^ instance

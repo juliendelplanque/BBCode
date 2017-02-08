@@ -1,1 +1,0 @@
-I am a visitor that validate a BBCode AST.
