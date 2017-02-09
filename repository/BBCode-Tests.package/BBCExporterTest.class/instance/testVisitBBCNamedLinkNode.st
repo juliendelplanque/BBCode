@@ -1,7 +1,7 @@
 tests-visiting
 testVisitBBCNamedLinkNode
 	| linkNode |
-	linkNode := (BBCNamedLink linkName: 'Pharo')
+	linkNode := (BBCNamedLink url: 'Pharo')
 						subnodes: {(BBCText fromString: 'http://pharo.org')};
 						yourself.
 	
