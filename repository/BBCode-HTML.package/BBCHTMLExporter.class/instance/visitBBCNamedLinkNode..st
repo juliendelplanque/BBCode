@@ -2,7 +2,7 @@ visiting
 visitBBCNamedLinkNode: aBBCNamedLinkNode
 	writeStream
 		<< '<a href="';
-		<< aBBCNamedLinkNode subnodes first text;
+		<< aBBCNamedLinkNode url;
 		<< '">';
-		<< aBBCNamedLinkNode linkName;
+		<< aBBCNamedLinkNode subnodes first text;
 		<< '</a>'.
