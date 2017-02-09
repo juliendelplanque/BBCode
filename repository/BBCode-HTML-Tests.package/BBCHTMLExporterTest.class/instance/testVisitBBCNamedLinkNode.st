@@ -1,8 +1,8 @@
 tests-visiting
 testVisitBBCNamedLinkNode
 	| linkNode |
-	linkNode := (BBCNamedLink linkName: 'Pharo')
-						addSubnode: (BBCText fromString: 'http://pharo.org');
+	linkNode := (BBCNamedLink url: 'http://pharo.org')
+						addSubnode: (BBCText fromString: 'Pharo');
 						yourself.
 	
 	linkNode accept: exporter.
