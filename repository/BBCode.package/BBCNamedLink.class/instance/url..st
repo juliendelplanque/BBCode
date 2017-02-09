@@ -1,3 +1,3 @@
 accessing
-linkName: linkName
+url: linkName
 	self parameter: linkName

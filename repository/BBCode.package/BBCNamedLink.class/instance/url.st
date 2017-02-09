@@ -1,3 +1,3 @@
 accessing
-linkName
+url
 	^ self parameter
