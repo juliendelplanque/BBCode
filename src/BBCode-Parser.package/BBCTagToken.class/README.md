@@ -1,1 +1,0 @@
-I am an abstract token for tag tokens.

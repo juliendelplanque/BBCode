@@ -1,3 +1,0 @@
-testing
-isStringToken
-	^ false

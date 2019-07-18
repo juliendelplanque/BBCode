@@ -1,1 +1,0 @@
-I am a close tag token. For example: '[/b]'.

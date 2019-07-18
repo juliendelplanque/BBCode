@@ -1,1 +1,0 @@
-I am an abstract table cell node for a bbcode AST.

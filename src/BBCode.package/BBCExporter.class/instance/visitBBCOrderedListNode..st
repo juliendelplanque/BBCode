@@ -1,3 +1,0 @@
-visiting
-visitBBCOrderedListNode: aBBCOrderedListNode
-	self writeBBCNodeOnStreamWithItsTags: aBBCOrderedListNode

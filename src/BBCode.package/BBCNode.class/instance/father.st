@@ -1,3 +1,0 @@
-accessing
-father
-	^ father

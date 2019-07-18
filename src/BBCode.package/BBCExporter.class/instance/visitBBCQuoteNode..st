@@ -1,3 +1,0 @@
-visiting
-visitBBCQuoteNode: aBBCQuoteNode
-	self writeBBCNodeOnStreamWithItsTags: aBBCQuoteNode

@@ -1,3 +1,0 @@
-visiting
-visitBBCResizedImageNode: aBBCResizedImageNode
-	^ self subclassResponsibility

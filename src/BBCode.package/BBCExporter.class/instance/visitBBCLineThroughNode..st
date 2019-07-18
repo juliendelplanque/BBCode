@@ -1,3 +1,0 @@
-visiting
-visitBBCLineThroughNode: aBBCLineThroughNode
-	self writeBBCNodeOnStreamWithItsTags: aBBCLineThroughNode

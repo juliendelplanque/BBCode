@@ -1,3 +1,0 @@
-testing
-isOpenTag
-	^ true

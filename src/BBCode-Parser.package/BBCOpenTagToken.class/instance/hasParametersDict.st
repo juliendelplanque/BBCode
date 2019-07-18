@@ -1,3 +1,0 @@
-testing
-hasParametersDict
-	^ parametersDict isNotNil

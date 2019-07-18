@@ -1,3 +1,0 @@
-visiting
-visitBBCFontColourNode: aBBCFontColourNode
-	self writeBBCNodeWithSimpleParameterOnStreamWithItsTags: aBBCFontColourNode

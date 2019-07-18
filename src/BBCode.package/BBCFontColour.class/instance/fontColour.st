@@ -1,3 +1,0 @@
-accessing
-fontColour
-	^ self parameter

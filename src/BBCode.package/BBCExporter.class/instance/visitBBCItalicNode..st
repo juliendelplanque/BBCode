@@ -1,3 +1,0 @@
-visiting
-visitBBCItalicNode: aBBCItalicNode
-	self writeBBCNodeOnStreamWithItsTags: aBBCItalicNode

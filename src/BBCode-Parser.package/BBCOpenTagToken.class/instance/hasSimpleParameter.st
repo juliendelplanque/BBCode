@@ -1,3 +1,0 @@
-testing
-hasSimpleParameter
-	^ simpleTagParameter isNotNil

@@ -1,3 +1,0 @@
-accessing
-tagName
-	^ BBCQuote tagName

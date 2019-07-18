@@ -1,3 +1,0 @@
-visiting
-visitBBCCodeNode: aBBCCodeNode
-	self writeBBCNodeOnStreamWithItsTags: aBBCCodeNode

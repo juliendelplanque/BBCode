@@ -1,3 +1,0 @@
-testing
-isCloseTag
-	^ true

@@ -1,3 +1,0 @@
-visiting
-visitBBCTableContentCellNode: aBBCTableContentCellNode
-	self writeBBCNodeOnStreamWithItsTags: aBBCTableContentCellNode
