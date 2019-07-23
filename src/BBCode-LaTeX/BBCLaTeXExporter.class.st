@@ -9,7 +9,7 @@ Class {
 
 { #category : #accessing }
 BBCLaTeXExporter >> lineEnding [
-	^ lineEnding ifNil: [ lineEnding := Smalltalk os lineEnding ]
+	^ lineEnding ifNil: [ lineEnding := String lf ]
 ]
 
 { #category : #accessing }
